@@ -1,0 +1,9 @@
+#spring:
+#  security:
+#    user:
+#      name: "admin"
+#      password: "admin"
+spring:
+  data:
+    mongodb:
+      uri: mongodb://turbineuserdev:ucrIjoF27p59wi17@dev-turbine-cluster-new.cluster-cvkl6mrpeuvd.ap-south-1.docdb.amazonaws.com:27017/test-db?readPreference=primaryPreferred&replicaSet=rs0&retryWrites=false
